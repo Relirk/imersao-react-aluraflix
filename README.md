@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
+  <img width="1792" alt="relirk-imersao-alura-aluraflix" src="https://github.com/Relirk/imersao-react-aluraflix/assets/8285478/4cf082f0-36f6-4689-b459-b40383763eb2">
 </p>
 
 :movie_camera: Projeto desenvolvido na imersão React da Alura 02 de Julho de 2020
