@@ -23,8 +23,6 @@
 
 ### [Live Demo](https://imersao-react-aluraflix-git-master.relirk.vercel.app/)
 
-![Screenshot 1](aluraflix.png)
-
 ### Tools used:
 - React
 - Styled Components
